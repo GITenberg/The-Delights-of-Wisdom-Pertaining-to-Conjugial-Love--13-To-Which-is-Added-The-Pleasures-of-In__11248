@@ -1,6 +1,9 @@
 _repo: The-Delights-of-Wisdom-Pertaining-to-Conjugial-Love--13-To-Which-is-Added-The-Pleasures-of-In__11248
-_version: 0.0.1
+_version: 0.1.0
 alternative_title: Deliciae sapientiae de amore conjugiali. English
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Swedenborg, Emanuel
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3899
     wikipedia: http://en.wikipedia.org/wiki/Emanuel_Swedenborg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11248#The-Delights-of-Wisdom-Pertaining-to-Conjugial-Love--13-To-Which-is-Added-The-Pleasures-of-In_
 gutenberg_bookshelf: Banned Books from Anne Haight's list
 gutenberg_issued: '2004-02-01'
 gutenberg_type: Text
